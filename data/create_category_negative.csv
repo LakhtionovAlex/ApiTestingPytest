@@ -1,0 +1,11 @@
+title,parent_id,description
+!<"%",4,Books for children
+уыепр,16,Home decor items
+Books,0,Books for children
+Books,-1,Books for children
+Books,999999999,Books for children
+Books,,Books for children
+Books,'Books for children',Books for children
+Books,{'title': 'Books for children'},Books for children
+Books,Books for children,Books for children
+Books,.,%,Books for children
